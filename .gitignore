@@ -17,3 +17,7 @@ sql/global_domains_seed.sql
 .codex/
 .cursor/
 .claude/
+
+# Add by YYC
+.vscode/
+package-lock.json
