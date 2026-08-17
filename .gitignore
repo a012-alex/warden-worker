@@ -22,3 +22,4 @@ sql/global_domains_seed.sql
 .vscode/
 package-lock.json
 wrangler.user.toml
+README.custom.md
