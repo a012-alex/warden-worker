@@ -21,3 +21,4 @@ sql/global_domains_seed.sql
 # Add by YYC
 .vscode/
 package-lock.json
+wrangler.user.toml
